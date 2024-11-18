@@ -12,10 +12,10 @@ Explore SehatBuddy.ai
 Check out our detailed presentation for an in-depth look at SehatBuddy.ai, its features, and how it can transform your health journey.
 
 # Meet Our Team
-Akshat Srivastava (Team Leader),
-Anuj Dubey,
-Jahnvi Chaurasia,
-Shikha Singh,
+ * Akshat Srivastava (Team Leader),
+ * Anuj Dubey,
+ * Jahnvi Chaurasia,
+ * Shikha Singh,
 SehatBuddy.ai - Your Health Ally
 Greetings!
 
